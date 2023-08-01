@@ -1,3 +1,4 @@
+// checking which number is greater
 package com.blabz.day6;
 
 public class Numbers {
