@@ -13,7 +13,7 @@ public class StopWatch {
 
     /**
      * @param scanner
-     * @return
+     * @return long value of time in milli seconds
      */
     private static long readStopTime(Scanner scanner) {
         System.out.println("Press 'E' to stop");
